@@ -114,7 +114,22 @@ function Main() {
   const [severity, setSeverity] = useState<SeverityTableRow[]>(severityFromURLHandling)
   const [empiricalCases, setEmpiricalCases] = useState<EmpiricalData | undefined>()
 
-<<<<<<< HEAD
+  const [severity, setSeverity] = useState<SeverityTableRow[]>([])
+
+  useEffect(() => {
+    if (severityProvenance !== Provenance.URL || scenarioStateProvenance === Provenance.EFFECT) {
+      const ageDistribution = (countryAgeDistributionData as CountryAgeDistribution)[
+        scenarioState.data.population.country
+      ]
+
+      const severityWithAgeDistribution = severityData.map((ageRow) => {
+        return { ...ageRow, population: ageDistribution[ageRow.ageGroup] }
+      })
+
+      setSeverity(updateSeverityTable(severityWithAgeDistribution))
+    }
+  }, [scenarioState.data.population.country, scenarioStateProvenance, severityProvenance])
+
   // prettier-ignore
   const scenarioStateProvenance =
     scenarioState === defaultScenarioState
@@ -137,9 +152,6 @@ function Main() {
   console.debug(`Scenario state is ${scenarioStateProvenance}`)
   // eslint-disable-next-line no-console
   console.debug(`Severity table is ${severityProvenance}`)
-=======
-  const [severity, setSeverity] = useState<SeverityTableRow[]>([])
->>>>>>> add an age distribution / population column to the severity table (#360)
 
   useEffect(() => {
     if (severityProvenance !== Provenance.URL || scenarioStateProvenance === Provenance.EFFECT) {
@@ -154,18 +166,6 @@ function Main() {
       setSeverity(updateSeverityTable(severityWithAgeDistribution))
     }
   }, [scenarioState.data.population.country, scenarioStateProvenance, severityProvenance])
-
-  useEffect(() => {
-    const ageDistribution = (countryAgeDistributionData as CountryAgeDistribution)[
-      scenarioState.data.population.country
-    ]
-
-    const severityDataWithAgeDistribution = severityData.map((ageRow) => {
-      return { ...ageRow, population: ageDistribution[ageRow.ageGroup] }
-    })
-
-    setSeverity(updateSeverityTable(severityDataWithAgeDistribution))
-  }, [scenarioState.data.population.country])
 
   const togglePersistAutorun = () => {
     LocalStorage.set(LOCAL_STORAGE_KEYS.AUTORUN_SIMULATION, !autorunSimulation)
