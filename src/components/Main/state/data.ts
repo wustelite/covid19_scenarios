@@ -1,5 +1,7 @@
 import scenarios from '../../../assets/data/scenarios/scenarios'
 import { ScenarioData } from '../../../algorithms/types/Param.types'
+import countryAgeDistributionData from '../../../assets/data/country_age_distribution.json'
+import { OneCountryAgeDistribution, CountryAgeDistribution } from '../../../assets/data/CountryAgeDistribution.types'
 
 export type Scenario = string
 
@@ -10,4 +12,8 @@ export function getScenarioData(key: string): ScenarioData {
     throw new Error(`Error: scenario "${key}" not found in JSON`)
   }
   return scenarios[key]
+}
+
+export function getAgeDistribution(country: string): OneCountryAgeDistribution {
+  return (countryAgeDistributionData as CountryAgeDistribution)[country]
 }
