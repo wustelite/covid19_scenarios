@@ -63,7 +63,7 @@ async function runSimulation(
   const caseCounts: EmpiricalData = countryCaseCountData[params.population.cases] || []
   const containment: TimeSeries = intervalsToTimeSeries(params.containment.mitigationIntervals)
 
-  // serializeScenarioToURL(scenarioState, params)
+  serializeScenarioToURL(scenarioState, params)
   intervalsToTimeSeries(params.containment.mitigationIntervals)
   const newResult = await run(paramsFlat, severity, scenarioState.ageDistribution, containment)
   setResult(newResult)

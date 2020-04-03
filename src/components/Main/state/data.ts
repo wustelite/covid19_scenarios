@@ -1,11 +1,9 @@
 import _ from 'lodash'
-
 import { v4 as uuidv4 } from 'uuid'
 import createColor from 'create-color'
 
-import scenarios from '../../../assets/data/scenarios/scenarios.json'
-
 import { MitigationIntervals, ScenarioData } from '../../../algorithms/types/Param.types'
+import scenarios from '../../../assets/data/scenarios/scenarios.json'
 import countryAgeDistributionData from '../../../assets/data/country_age_distribution.json'
 import { OneCountryAgeDistribution, CountryAgeDistribution } from '../../../assets/data/CountryAgeDistribution.types'
 
