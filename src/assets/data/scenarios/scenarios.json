@@ -3,8 +3,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "c9271b78-c0f0-4649-87fb-be58caf7f37d",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-22"
@@ -47,7 +49,7 @@
             "hospitalBeds": 49395,
             "importsPerDay": 0.1,
             "populationServed": 9006000,
-            "suspectedCasesToday": 8.0
+            "suspectedCasesToday": 8
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -61,8 +63,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3096add1-0733-4a1e-a4ae-95c4b6109d62",
                     "mitigationValue": 0.5454545454545455,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-24"
@@ -105,7 +109,7 @@
             "hospitalBeds": 63692,
             "importsPerDay": 0.1,
             "populationServed": 11590000,
-            "suspectedCasesToday": 14.0
+            "suspectedCasesToday": 14
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -154,7 +158,7 @@
             "hospitalBeds": 429000,
             "importsPerDay": 0.1,
             "populationServed": 207353391,
-            "suspectedCasesToday": 53.0
+            "suspectedCasesToday": 53
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -203,7 +207,7 @@
             "hospitalBeds": 42851,
             "importsPerDay": 0.1,
             "populationServed": 6948000,
-            "suspectedCasesToday": 44.0
+            "suspectedCasesToday": 44
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -252,7 +256,7 @@
             "hospitalBeds": 5819,
             "importsPerDay": 0.1,
             "populationServed": 4413146,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -350,7 +354,7 @@
             "hospitalBeds": 2885,
             "importsPerDay": 0.1,
             "populationServed": 1377517,
-            "suspectedCasesToday": 168.0
+            "suspectedCasesToday": 168
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -448,7 +452,7 @@
             "hospitalBeds": 1448,
             "importsPerDay": 0.1,
             "populationServed": 779993,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -546,7 +550,7 @@
             "hospitalBeds": 1896,
             "importsPerDay": 0.1,
             "populationServed": 977457,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -644,7 +648,7 @@
             "hospitalBeds": 15485,
             "importsPerDay": 0.1,
             "populationServed": 14711827,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -805,8 +809,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "424522ef-3c26-4663-9bf7-8fc33495b065",
                     "mitigationValue": 0.5454545454545455,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-22"
@@ -849,7 +855,7 @@
             "hospitalBeds": 2424,
             "importsPerDay": 0.1,
             "populationServed": 677000,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -863,8 +869,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "05b1588a-7398-4bd5-9a13-9e156e1dd9e0",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -907,7 +915,7 @@
             "hospitalBeds": 196,
             "importsPerDay": 0.1,
             "populationServed": 55000,
-            "suspectedCasesToday": 168.0
+            "suspectedCasesToday": 168
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -921,8 +929,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "4300449b-a655-4ef0-b405-207476ec18ca",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -979,8 +989,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "61e05dfe-e065-424d-856c-c8beb0bc1ec0",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-17"
@@ -1023,7 +1035,7 @@
             "hospitalBeds": 1031,
             "importsPerDay": 0.1,
             "populationServed": 288000,
-            "suspectedCasesToday": 35.0
+            "suspectedCasesToday": 35
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1037,16 +1049,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "e1a72c0e-6774-4150-9f07-e636f9e42244",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-12"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "5ceeb04e-8b9b-4cd9-a7a0-4ca37cb32145",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -1089,7 +1105,7 @@
             "hospitalBeds": 698,
             "importsPerDay": 0.1,
             "populationServed": 195000,
-            "suspectedCasesToday": 39.0
+            "suspectedCasesToday": 39
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1103,8 +1119,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "67223a6e-ad29-4dee-96a8-e2a4fab171d6",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
@@ -1147,7 +1165,7 @@
             "hospitalBeds": 3706,
             "importsPerDay": 0.1,
             "populationServed": 1035000,
-            "suspectedCasesToday": 10.0
+            "suspectedCasesToday": 10
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1161,8 +1179,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "05b00042-588a-48cb-b4b4-9d2489388fe3",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -1205,7 +1225,7 @@
             "hospitalBeds": 1142,
             "importsPerDay": 0.1,
             "populationServed": 319000,
-            "suspectedCasesToday": 22.0
+            "suspectedCasesToday": 22
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1219,16 +1239,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "24a205d8-9b76-494a-bbe7-e870e132ea65",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-13"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "78d158d1-17af-4d43-b0dd-ec3071f087ed",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -1271,7 +1295,7 @@
             "hospitalBeds": 1787,
             "importsPerDay": 0.1,
             "populationServed": 499000,
-            "suspectedCasesToday": 18.0
+            "suspectedCasesToday": 18
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1285,8 +1309,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "0bdb619c-b57f-4f5a-887d-8e7814529031",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -1329,7 +1355,7 @@
             "hospitalBeds": 143,
             "importsPerDay": 0.1,
             "populationServed": 40000,
-            "suspectedCasesToday": 5.0
+            "suspectedCasesToday": 5
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1343,8 +1369,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "568fb1dc-a8bc-4a64-bc0f-a4acdb67b34c",
                     "mitigationValue": 0.782608695652174,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-18"
@@ -1387,7 +1415,7 @@
             "hospitalBeds": 709,
             "importsPerDay": 0.1,
             "populationServed": 198000,
-            "suspectedCasesToday": 72.0
+            "suspectedCasesToday": 72
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1401,8 +1429,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "fba2d5b3-977e-4283-9e6e-ed936e9bbcf8",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-17"
@@ -1445,7 +1475,7 @@
             "hospitalBeds": 261,
             "importsPerDay": 0.1,
             "populationServed": 73000,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1459,8 +1489,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "f4fca6f5-a6b1-4a9d-836e-10a53e83c441",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-22"
@@ -1503,7 +1535,7 @@
             "hospitalBeds": 1468,
             "importsPerDay": 0.1,
             "populationServed": 410000,
-            "suspectedCasesToday": 21.0
+            "suspectedCasesToday": 21
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1517,8 +1549,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "4f6df430-8030-439d-a4c7-9694342a730a",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
@@ -1561,7 +1595,7 @@
             "hospitalBeds": 633,
             "importsPerDay": 0.1,
             "populationServed": 177000,
-            "suspectedCasesToday": 57.0
+            "suspectedCasesToday": 57
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1575,8 +1609,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "ba8e4a58-1dd7-49d3-a114-4dc2db142ab1",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -1619,7 +1655,7 @@
             "hospitalBeds": 153,
             "importsPerDay": 0.1,
             "populationServed": 43000,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1633,8 +1669,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "c28f9803-42a4-41fe-be3f-8ecfbab72601",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -1677,7 +1715,7 @@
             "hospitalBeds": 136,
             "importsPerDay": 0.1,
             "populationServed": 38000,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1691,8 +1729,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "f82938c8-e46b-4e2c-a283-4ee50b5ec343",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -1735,7 +1775,7 @@
             "hospitalBeds": 293,
             "importsPerDay": 0.1,
             "populationServed": 82000,
-            "suspectedCasesToday": 48.0
+            "suspectedCasesToday": 48
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1749,8 +1789,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "19a0f28a-2e69-497f-af93-82df4e5ab9dd",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -1793,7 +1835,7 @@
             "hospitalBeds": 569,
             "importsPerDay": 0.1,
             "populationServed": 159000,
-            "suspectedCasesToday": 27.0
+            "suspectedCasesToday": 27
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1807,8 +1849,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "d57a763e-7879-45c4-9bb3-f45e8d1c6050",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -1851,7 +1895,7 @@
             "hospitalBeds": 977,
             "importsPerDay": 0.1,
             "populationServed": 273000,
-            "suspectedCasesToday": 13.0
+            "suspectedCasesToday": 13
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1865,8 +1909,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "e1a2603d-9beb-4610-ae05-96b5b4b826f4",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -1909,7 +1955,7 @@
             "hospitalBeds": 1819,
             "importsPerDay": 0.1,
             "populationServed": 508000,
-            "suspectedCasesToday": 13.0
+            "suspectedCasesToday": 13
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1923,8 +1969,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3d0a0de6-469a-4291-b47e-65e21463df2a",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-24"
@@ -1967,7 +2015,7 @@
             "hospitalBeds": 988,
             "importsPerDay": 0.1,
             "populationServed": 276000,
-            "suspectedCasesToday": 7.0
+            "suspectedCasesToday": 7
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -1981,16 +2029,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "15e64871-2db1-47ec-8f54-3cfc9bdb20f3",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-12"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "b68ad9f9-6944-4305-bdc5-4de36a617bf3",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -2033,7 +2085,7 @@
             "hospitalBeds": 1264,
             "importsPerDay": 0.1,
             "populationServed": 353000,
-            "suspectedCasesToday": 136.0
+            "suspectedCasesToday": 136
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2047,8 +2099,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "534676e4-5097-4311-8c7d-3fb81e4fa2b6",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-21"
@@ -2091,7 +2145,7 @@
             "hospitalBeds": 128,
             "importsPerDay": 0.1,
             "populationServed": 36000,
-            "suspectedCasesToday": 21.0
+            "suspectedCasesToday": 21
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2105,16 +2159,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "d3cdd6b8-c152-4924-9312-cd8f48a97335",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-16"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "26a60f63-ccfa-48d5-af1c-1adbb212da94",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -2157,7 +2215,7 @@
             "hospitalBeds": 1231,
             "importsPerDay": 0.1,
             "populationServed": 344000,
-            "suspectedCasesToday": 53.0
+            "suspectedCasesToday": 53
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2171,16 +2229,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "bc6d49c4-5dd6-422d-8722-35d2c51dff6a",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-14"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "d52729ce-79d7-4874-980f-49b36e31a030",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -2223,7 +2285,7 @@
             "hospitalBeds": 2861,
             "importsPerDay": 0.1,
             "populationServed": 799000,
-            "suspectedCasesToday": 35.0
+            "suspectedCasesToday": 35
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2237,8 +2299,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "f5c045fd-900d-4ec8-bfb0-ddc3b326dbf4",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
@@ -2281,7 +2345,7 @@
             "hospitalBeds": 454,
             "importsPerDay": 0.1,
             "populationServed": 127000,
-            "suspectedCasesToday": 34.0
+            "suspectedCasesToday": 34
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2295,8 +2359,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1a825db5-53d4-42cb-b240-d6fe0f3e060f",
                     "mitigationValue": 0.6923076923076923,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -2339,7 +2405,7 @@
             "hospitalBeds": 5447,
             "importsPerDay": 0.1,
             "populationServed": 1521000,
-            "suspectedCasesToday": 6.0
+            "suspectedCasesToday": 6
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2388,7 +2454,7 @@
             "hospitalBeds": 73000,
             "importsPerDay": 0.1,
             "populationServed": 37600000,
-            "suspectedCasesToday": 8.0
+            "suspectedCasesToday": 8
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2437,7 +2503,7 @@
             "hospitalBeds": 16974,
             "importsPerDay": 0.1,
             "populationServed": 4105000,
-            "suspectedCasesToday": 4.0
+            "suspectedCasesToday": 4
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2486,7 +2552,7 @@
             "hospitalBeds": 2912,
             "importsPerDay": 0.1,
             "populationServed": 1207000,
-            "suspectedCasesToday": 26.0
+            "suspectedCasesToday": 26
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2500,8 +2566,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "84d92a2e-2876-49c2-b0f4-89b465a00539",
                     "mitigationValue": 0.5142857142857143,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -2544,7 +2612,7 @@
             "hospitalBeds": 92633,
             "importsPerDay": 0.1,
             "populationServed": 10709000,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2558,8 +2626,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "4afa890f-e4a2-45a8-8416-8c84f86754c9",
                     "mitigationValue": 0.6206896551724138,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-21"
@@ -2602,7 +2672,7 @@
             "hospitalBeds": 66152,
             "importsPerDay": 0.1,
             "populationServed": 11070000,
-            "suspectedCasesToday": 6.0
+            "suspectedCasesToday": 6
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2616,8 +2686,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "6e34e174-046b-4607-a197-106300761c1c",
                     "mitigationValue": 0.5625,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -2660,7 +2732,7 @@
             "hospitalBeds": 78146,
             "importsPerDay": 0.1,
             "populationServed": 13077000,
-            "suspectedCasesToday": 2.0
+            "suspectedCasesToday": 2
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2674,8 +2746,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "b78e59a8-90de-42b9-8858-e0fc80b42d11",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-24"
@@ -2718,7 +2792,7 @@
             "hospitalBeds": 21781,
             "importsPerDay": 0.1,
             "populationServed": 3645000,
-            "suspectedCasesToday": 5.0
+            "suspectedCasesToday": 5
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2732,8 +2806,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "db758368-9d2e-4860-a7f7-8f9537e1ee9b",
                     "mitigationValue": 0.6206896551724138,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-30"
@@ -2776,7 +2852,7 @@
             "hospitalBeds": 15011,
             "importsPerDay": 0.1,
             "populationServed": 2512000,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2790,8 +2866,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "4d2f1f96-9244-43b1-95bf-d0f77f010301",
                     "mitigationValue": 0.5454545454545455,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -2834,7 +2912,7 @@
             "hospitalBeds": 4081,
             "importsPerDay": 0.1,
             "populationServed": 683000,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2848,8 +2926,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "a53d66e7-1f22-4a3d-95b2-e9a65ab43d85",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
@@ -2892,7 +2972,7 @@
             "hospitalBeds": 11001,
             "importsPerDay": 0.1,
             "populationServed": 1841000,
-            "suspectedCasesToday": 6.0
+            "suspectedCasesToday": 6
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2906,8 +2986,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "265e4e86-a9e2-4b5b-a338-f414b944236c",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -2950,7 +3032,7 @@
             "hospitalBeds": 37444,
             "importsPerDay": 0.1,
             "populationServed": 6266000,
-            "suspectedCasesToday": 7.0
+            "suspectedCasesToday": 7
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -2999,7 +3081,7 @@
             "hospitalBeds": 9621,
             "importsPerDay": 0.1,
             "populationServed": 1610000,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3062,8 +3144,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "4567064d-fb7a-4ed9-bf7b-92d3dd92d77a",
                     "mitigationValue": 0.6206896551724138,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -3106,7 +3190,7 @@
             "hospitalBeds": 47699,
             "importsPerDay": 0.1,
             "populationServed": 7982000,
-            "suspectedCasesToday": 4.0
+            "suspectedCasesToday": 4
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3120,8 +3204,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "28cce998-7557-42ab-b23f-a2866aec0097",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -3164,7 +3250,7 @@
             "hospitalBeds": 107164,
             "importsPerDay": 0.1,
             "populationServed": 17933000,
-            "suspectedCasesToday": 12.0
+            "suspectedCasesToday": 12
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3178,8 +3264,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "921fa5f5-51c3-4823-9aef-02644b3a4e57",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-24"
@@ -3222,7 +3310,7 @@
             "hospitalBeds": 24411,
             "importsPerDay": 0.1,
             "populationServed": 4085000,
-            "suspectedCasesToday": 10.0
+            "suspectedCasesToday": 10
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3236,8 +3324,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "39060aba-548b-4651-8bb7-f34b14bb1cfd",
                     "mitigationValue": 0.5454545454545455,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-24"
@@ -3280,7 +3370,7 @@
             "hospitalBeds": 5922,
             "importsPerDay": 0.1,
             "populationServed": 991000,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3294,8 +3384,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "6caa99eb-3e59-42d0-b514-e46d0ea04c91",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -3338,7 +3430,7 @@
             "hospitalBeds": 24369,
             "importsPerDay": 0.1,
             "populationServed": 4078000,
-            "suspectedCasesToday": 13.0
+            "suspectedCasesToday": 13
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3352,8 +3444,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "7c7a7e31-ccde-434b-ae79-fbdc6c16b4d0",
                     "mitigationValue": 0.5294117647058824,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -3396,7 +3490,7 @@
             "hospitalBeds": 13194,
             "importsPerDay": 0.1,
             "populationServed": 2208000,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3410,8 +3504,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "bb329cd6-7c7a-4da9-91ed-9af6034ebabf",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -3454,7 +3550,7 @@
             "hospitalBeds": 17312,
             "importsPerDay": 0.1,
             "populationServed": 2897000,
-            "suspectedCasesToday": 6.0
+            "suspectedCasesToday": 6
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3468,8 +3564,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "8f871f35-a9ac-4615-a3cc-1f1ee2f2a8fd",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -3512,7 +3610,7 @@
             "hospitalBeds": 12806,
             "importsPerDay": 0.1,
             "populationServed": 2143000,
-            "suspectedCasesToday": 15.0
+            "suspectedCasesToday": 15
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3526,8 +3624,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "a30fbdc4-8fa5-45a8-9d0f-5c5e8959fbc2",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -3570,7 +3670,7 @@
             "hospitalBeds": 13962,
             "importsPerDay": 0.1,
             "populationServed": 5792000,
-            "suspectedCasesToday": 23.0
+            "suspectedCasesToday": 23
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3584,8 +3684,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "7c4009dc-c3cc-4985-b190-f066adfc5a39",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -3628,7 +3730,7 @@
             "hospitalBeds": 19744,
             "importsPerDay": 0.1,
             "populationServed": 8414240,
-            "suspectedCasesToday": 98.0
+            "suspectedCasesToday": 98
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3642,8 +3744,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "8ed41bb6-7fb0-4e65-96c6-4cd36b2790fa",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-21"
@@ -3686,7 +3790,7 @@
             "hospitalBeds": 3096,
             "importsPerDay": 0.1,
             "populationServed": 1319291,
-            "suspectedCasesToday": 38.0
+            "suspectedCasesToday": 38
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3700,8 +3804,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "76cb980d-6bc1-4b0e-a49d-a946a1922233",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
@@ -3744,7 +3850,7 @@
             "hospitalBeds": 2400,
             "importsPerDay": 0.1,
             "populationServed": 1022800,
-            "suspectedCasesToday": 30.0
+            "suspectedCasesToday": 30
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3758,8 +3864,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1e698549-770a-428e-946f-ea2e57113b35",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -3802,7 +3910,7 @@
             "hospitalBeds": 2697,
             "importsPerDay": 0.1,
             "populationServed": 1149460,
-            "suspectedCasesToday": 23.0
+            "suspectedCasesToday": 23
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3816,8 +3924,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "fd00d699-1736-44c5-b831-fdca85932f23",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-22"
@@ -3860,7 +3970,7 @@
             "hospitalBeds": 11741,
             "importsPerDay": 0.1,
             "populationServed": 5003769,
-            "suspectedCasesToday": 119.0
+            "suspectedCasesToday": 119
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3874,8 +3984,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "999a945b-63a7-4601-8697-3c7917f05891",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -3918,7 +4030,7 @@
             "hospitalBeds": 5053,
             "importsPerDay": 0.1,
             "populationServed": 2153389,
-            "suspectedCasesToday": 23.0
+            "suspectedCasesToday": 23
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3932,8 +4044,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "67631052-a84a-4bdd-b07f-bae23537ac99",
                     "mitigationValue": 0.6,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-21"
@@ -3976,7 +4090,7 @@
             "hospitalBeds": 1363,
             "importsPerDay": 0.1,
             "populationServed": 581078,
-            "suspectedCasesToday": 13.0
+            "suspectedCasesToday": 13
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -3990,8 +4104,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "0722e443-5e8a-470b-9f3d-6ac5d6075a69",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -4034,7 +4150,7 @@
             "hospitalBeds": 5630,
             "importsPerDay": 0.1,
             "populationServed": 2399548,
-            "suspectedCasesToday": 104.0
+            "suspectedCasesToday": 104
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4048,16 +4164,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "059c20f9-d0e9-4ae2-8cf7-9ba2a8380f5f",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-18"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "2a01a02d-b03e-4e1d-b86e-89053af98555",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -4100,7 +4220,7 @@
             "hospitalBeds": 4770,
             "importsPerDay": 0.1,
             "populationServed": 2032863,
-            "suspectedCasesToday": 235.0
+            "suspectedCasesToday": 235
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4114,8 +4234,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "9026776c-6810-4ba3-8e6a-639fbe4d067b",
                     "mitigationValue": 0.6206896551724138,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -4158,7 +4280,7 @@
             "hospitalBeds": 18010,
             "importsPerDay": 0.1,
             "populationServed": 7675217,
-            "suspectedCasesToday": 133.0
+            "suspectedCasesToday": 133
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4172,8 +4294,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "dc20def2-477f-4cc5-be87-207300a31cd7",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -4230,8 +4354,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "b649b06e-e694-4f27-83f7-40e39a50b0cc",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-21"
@@ -4274,7 +4400,7 @@
             "hospitalBeds": 2505,
             "importsPerDay": 0.1,
             "populationServed": 1067710,
-            "suspectedCasesToday": 73.0
+            "suspectedCasesToday": 73
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4288,8 +4414,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "b816f898-ef80-4cfe-9c05-5f1c7b9492b9",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-22"
@@ -4332,7 +4460,7 @@
             "hospitalBeds": 6334,
             "importsPerDay": 0.1,
             "populationServed": 2699499,
-            "suspectedCasesToday": 24.0
+            "suspectedCasesToday": 24
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4346,16 +4474,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "ee7041b5-c768-4aeb-85fe-039a8fc4e1f3",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-10"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "5036da05-1383-4bb9-ba16-91c065ec80af",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -4398,7 +4530,7 @@
             "hospitalBeds": 743,
             "importsPerDay": 0.1,
             "populationServed": 316798,
-            "suspectedCasesToday": 40.0
+            "suspectedCasesToday": 40
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4412,16 +4544,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "cea1c0be-0e81-4f27-b85a-c277bdc5594b",
                     "mitigationValue": 0.6206896551724138,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-14"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "c59da11a-27ea-47d7-80c4-1411c108cfeb",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -4464,7 +4600,7 @@
             "hospitalBeds": 15636,
             "importsPerDay": 0.1,
             "populationServed": 6663394,
-            "suspectedCasesToday": 268.0
+            "suspectedCasesToday": 268
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4478,8 +4614,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3af7313c-a14f-484b-9f88-2c77eff5fd8a",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -4522,7 +4660,7 @@
             "hospitalBeds": 203,
             "importsPerDay": 0.1,
             "populationServed": 86487,
-            "suspectedCasesToday": 125.0
+            "suspectedCasesToday": 125
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4536,8 +4674,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "2d468231-6010-41a5-b059-90ef8e2a7e42",
                     "mitigationValue": 0.5294117647058824,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -4580,7 +4720,7 @@
             "hospitalBeds": 3505,
             "importsPerDay": 0.1,
             "populationServed": 1493898,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4594,16 +4734,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "fbcfc472-cdd9-4b2d-9b1f-ada47e88479a",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-16"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "6c563001-bb8c-4002-9c42-4b67f02f7f49",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -4646,7 +4790,7 @@
             "hospitalBeds": 1535,
             "importsPerDay": 0.1,
             "populationServed": 654214,
-            "suspectedCasesToday": 44.0
+            "suspectedCasesToday": 44
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4660,16 +4804,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3055d5f2-cd1a-45f1-b130-05aca17d0b9b",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-17"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "bdcd5312-6765-46ac-bc77-3cd05e96fc97",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -4712,7 +4860,7 @@
             "hospitalBeds": 5180,
             "importsPerDay": 0.1,
             "populationServed": 2207776,
-            "suspectedCasesToday": 296.0
+            "suspectedCasesToday": 296
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4726,8 +4874,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "06932280-f669-4c22-9b67-a5347173a76f",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -4770,7 +4920,7 @@
             "hospitalBeds": 4824,
             "importsPerDay": 0.1,
             "populationServed": 1327000,
-            "suspectedCasesToday": 8.0
+            "suspectedCasesToday": 8
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4819,7 +4969,7 @@
             "hospitalBeds": 16641,
             "importsPerDay": 0.1,
             "populationServed": 8026685,
-            "suspectedCasesToday": 31.0
+            "suspectedCasesToday": 31
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4833,8 +4983,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "5b5d2407-2d46-4c0a-9c9c-83e80ae5b43f",
                     "mitigationValue": 0.5,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-21"
@@ -4877,7 +5029,7 @@
             "hospitalBeds": 7095,
             "importsPerDay": 0.1,
             "populationServed": 2795301,
-            "suspectedCasesToday": 6.0
+            "suspectedCasesToday": 6
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4926,7 +5078,7 @@
             "hospitalBeds": 7361,
             "importsPerDay": 0.1,
             "populationServed": 3329395,
-            "suspectedCasesToday": 28.0
+            "suspectedCasesToday": 28
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4940,8 +5092,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "fc750aef-6688-49ea-b8b4-ed389ea0d53f",
                     "mitigationValue": 0.45,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -4984,7 +5138,7 @@
             "hospitalBeds": 4984,
             "importsPerDay": 0.1,
             "populationServed": 2566759,
-            "suspectedCasesToday": 2.0
+            "suspectedCasesToday": 2
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -4998,8 +5152,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "8e1ebcf8-cbef-4fb5-aace-b3a7d3c931df",
                     "mitigationValue": 0.6923076923076923,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-14"
@@ -5042,7 +5198,7 @@
             "hospitalBeds": 756,
             "importsPerDay": 0.1,
             "populationServed": 339178,
-            "suspectedCasesToday": 17.0
+            "suspectedCasesToday": 17
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5056,8 +5212,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "0234b860-b808-4bba-9391-a84090bd85af",
                     "mitigationValue": 0.5625,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-17"
@@ -5100,7 +5258,7 @@
             "hospitalBeds": 13548,
             "importsPerDay": 0.1,
             "populationServed": 5518188,
-            "suspectedCasesToday": 64.0
+            "suspectedCasesToday": 64
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5149,7 +5307,7 @@
             "hospitalBeds": 735,
             "importsPerDay": 0.1,
             "populationServed": 382704,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5198,7 +5356,7 @@
             "hospitalBeds": 383,
             "importsPerDay": 0.1,
             "populationServed": 296711,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5212,8 +5370,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1eb1bf6a-1a05-453e-abef-f261a554111f",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -5256,7 +5416,7 @@
             "hospitalBeds": 13872,
             "importsPerDay": 0.1,
             "populationServed": 5978266,
-            "suspectedCasesToday": 290.0
+            "suspectedCasesToday": 290
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5270,8 +5430,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1afef8cf-e498-4f66-940b-b13406065881",
                     "mitigationValue": 0.4390243902439025,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
@@ -5314,7 +5476,7 @@
             "hospitalBeds": 22792,
             "importsPerDay": 0.1,
             "populationServed": 12213364,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5363,7 +5525,7 @@
             "hospitalBeds": 1260,
             "importsPerDay": 0.1,
             "populationServed": 866506,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5377,8 +5539,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "fecf0e30-5dbb-46ca-b6f2-117a2b66791b",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -5421,7 +5585,7 @@
             "hospitalBeds": 882,
             "importsPerDay": 0.1,
             "populationServed": 364354,
-            "suspectedCasesToday": 27.0
+            "suspectedCasesToday": 27
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5470,7 +5634,7 @@
             "hospitalBeds": 300,
             "importsPerDay": 0.1,
             "populationServed": 270372,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5519,7 +5683,7 @@
             "hospitalBeds": 7645,
             "importsPerDay": 0.1,
             "populationServed": 3319067,
-            "suspectedCasesToday": 10.0
+            "suspectedCasesToday": 10
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5568,7 +5732,7 @@
             "hospitalBeds": 12491,
             "importsPerDay": 0.1,
             "populationServed": 5987014,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5582,8 +5746,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "2372a6b0-c1b2-4125-b5a3-654cb4a4fd37",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -5626,7 +5792,7 @@
             "hospitalBeds": 9851,
             "importsPerDay": 0.1,
             "populationServed": 5892817,
-            "suspectedCasesToday": 95.0
+            "suspectedCasesToday": 95
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5675,7 +5841,7 @@
             "hospitalBeds": 6570,
             "importsPerDay": 0.1,
             "populationServed": 3786545,
-            "suspectedCasesToday": 5.0
+            "suspectedCasesToday": 5
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5689,8 +5855,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "f62a4a9d-39ba-486a-8f27-2f93ed09e6e0",
                     "mitigationValue": 0.5806451612903226,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-24"
@@ -5733,7 +5901,7 @@
             "hospitalBeds": 9909,
             "importsPerDay": 0.1,
             "populationServed": 5059473,
-            "suspectedCasesToday": 5.0
+            "suspectedCasesToday": 5
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5782,7 +5950,7 @@
             "hospitalBeds": 16852,
             "importsPerDay": 0.1,
             "populationServed": 5541000,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5796,16 +5964,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1c8d8b90-cdb0-46ff-825d-ad008d2072c7",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "d9345c75-f5ba-430c-a8b3-8b05955f8f6c",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -5848,7 +6020,7 @@
             "hospitalBeds": 274462,
             "importsPerDay": 0.1,
             "populationServed": 65274000,
-            "suspectedCasesToday": 234.0
+            "suspectedCasesToday": 234
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5862,16 +6034,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "ada65339-9c83-4b85-a41a-b0347dc3d217",
                     "mitigationValue": 0.6206896551724138,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "a1d568e9-19c6-479b-aeac-7c54aacf56f1",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -5914,7 +6090,7 @@
             "hospitalBeds": 500680,
             "importsPerDay": 0.1,
             "populationServed": 83784000,
-            "suspectedCasesToday": 9.0
+            "suspectedCasesToday": 9
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -5963,7 +6139,7 @@
             "hospitalBeds": 38090,
             "importsPerDay": 0.1,
             "populationServed": 10423000,
-            "suspectedCasesToday": 28.0
+            "suspectedCasesToday": 28
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -6012,7 +6188,7 @@
             "hospitalBeds": 42413,
             "importsPerDay": 0.1,
             "populationServed": 9660000,
-            "suspectedCasesToday": 79.0
+            "suspectedCasesToday": 79
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -6502,7 +6678,7 @@
             "hospitalBeds": 24383,
             "importsPerDay": 0.1,
             "populationServed": 18345784,
-            "suspectedCasesToday": 261.0
+            "suspectedCasesToday": 261
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -6600,7 +6776,7 @@
             "hospitalBeds": 32280,
             "importsPerDay": 0.1,
             "populationServed": 63907200,
-            "suspectedCasesToday": 217.0
+            "suspectedCasesToday": 217
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -6649,7 +6825,7 @@
             "hospitalBeds": 11240,
             "importsPerDay": 0.1,
             "populationServed": 27388008,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -6845,7 +7021,7 @@
             "hospitalBeds": 70165,
             "importsPerDay": 0.1,
             "populationServed": 66165886,
-            "suspectedCasesToday": 225.0
+            "suspectedCasesToday": 225
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -6894,7 +7070,7 @@
             "hospitalBeds": 38004,
             "importsPerDay": 0.1,
             "populationServed": 35330888,
-            "suspectedCasesToday": 9.0
+            "suspectedCasesToday": 9
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -6992,7 +7168,7 @@
             "hospitalBeds": 28839,
             "importsPerDay": 0.1,
             "populationServed": 82342793,
-            "suspectedCasesToday": 43.0
+            "suspectedCasesToday": 43
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7041,7 +7217,7 @@
             "hospitalBeds": 51446,
             "importsPerDay": 0.1,
             "populationServed": 120837347,
-            "suspectedCasesToday": 37.0
+            "suspectedCasesToday": 37
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7384,7 +7560,7 @@
             "hospitalBeds": 17933,
             "importsPerDay": 0.1,
             "populationServed": 29611935,
-            "suspectedCasesToday": 25.0
+            "suspectedCasesToday": 25
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7433,7 +7609,7 @@
             "hospitalBeds": 31848,
             "importsPerDay": 0.1,
             "populationServed": 78230816,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7531,7 +7707,7 @@
             "hospitalBeds": 77532,
             "importsPerDay": 0.1,
             "populationServed": 76481545,
-            "suspectedCasesToday": 533.0
+            "suspectedCasesToday": 533
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7678,7 +7854,7 @@
             "hospitalBeds": 76260,
             "importsPerDay": 0.1,
             "populationServed": 228959599,
-            "suspectedCasesToday": 70.0
+            "suspectedCasesToday": 70
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7790,8 +7966,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "ad40b636-c0f9-43eb-9cec-235da6608845",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
@@ -7834,7 +8012,7 @@
             "hospitalBeds": 3872,
             "importsPerDay": 0.1,
             "populationServed": 1311580,
-            "suspectedCasesToday": 105.0
+            "suspectedCasesToday": 105
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7848,8 +8026,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1065e526-725a-4754-85c6-49b276b618e4",
                     "mitigationValue": 0.4736842105263158,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -7892,7 +8072,7 @@
             "hospitalBeds": 1681,
             "importsPerDay": 0.1,
             "populationServed": 562869,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7906,8 +8086,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "eaaa6e28-bd9e-4908-8323-141eb74cfb06",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -7950,7 +8132,7 @@
             "hospitalBeds": 4901,
             "importsPerDay": 0.1,
             "populationServed": 1947131,
-            "suspectedCasesToday": 24.0
+            "suspectedCasesToday": 24
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -7964,8 +8146,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "dc444b5b-ecf1-43f5-ab5a-1373fcd7e63f",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -8008,7 +8192,7 @@
             "hospitalBeds": 14779,
             "importsPerDay": 0.1,
             "populationServed": 5801692,
-            "suspectedCasesToday": 66.0
+            "suspectedCasesToday": 66
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8022,16 +8206,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3c3540ec-7a6a-45e3-b351-2933c3092dc5",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-09"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "9d1d5c90-04e3-4321-a469-be904285f551",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-30"
@@ -8074,7 +8262,7 @@
             "hospitalBeds": 16304,
             "importsPerDay": 0.1,
             "populationServed": 4459477,
-            "suspectedCasesToday": 1117.0
+            "suspectedCasesToday": 1117
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8088,8 +8276,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "343f9786-c716-4a9b-817e-93d33de8e2b7",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-16"
@@ -8132,7 +8322,7 @@
             "hospitalBeds": 3899,
             "importsPerDay": 0.1,
             "populationServed": 1215220,
-            "suspectedCasesToday": 253.0
+            "suspectedCasesToday": 253
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8146,8 +8336,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "be1ca45b-1136-4e6b-b9bc-e58192531c30",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -8190,7 +8382,7 @@
             "hospitalBeds": 18887,
             "importsPerDay": 0.1,
             "populationServed": 5879082,
-            "suspectedCasesToday": 203.0
+            "suspectedCasesToday": 203
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8204,8 +8396,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "19acbd39-c1c6-46b2-a48d-da2b65716d82",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-15"
@@ -8248,7 +8442,7 @@
             "hospitalBeds": 5085,
             "importsPerDay": 0.1,
             "populationServed": 1550640,
-            "suspectedCasesToday": 303.0
+            "suspectedCasesToday": 303
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8262,16 +8456,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "198d8f71-604c-4927-b738-1b3446f65132",
                     "mitigationValue": 0.75,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-07"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "fa71b26f-f889-45fd-8f12-d079d0cd9c78",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-24"
@@ -8314,7 +8512,7 @@
             "hospitalBeds": 34473,
             "importsPerDay": 0.1,
             "populationServed": 10060574,
-            "suspectedCasesToday": 989.0
+            "suspectedCasesToday": 989
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8328,8 +8526,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "2ab43e95-c0d7-4f34-aa3a-877eb38d304c",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-11"
@@ -8372,7 +8572,7 @@
             "hospitalBeds": 4698,
             "importsPerDay": 0.1,
             "populationServed": 1525271,
-            "suspectedCasesToday": 416.0
+            "suspectedCasesToday": 416
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8386,8 +8586,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "8ec7b277-866c-456e-ab1b-cc60cbbf1444",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -8430,7 +8632,7 @@
             "hospitalBeds": 1029,
             "importsPerDay": 0.1,
             "populationServed": 305617,
-            "suspectedCasesToday": 215.0
+            "suspectedCasesToday": 215
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8444,8 +8646,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "e2fd2286-2fa4-40bc-a8b6-c3bb3e3e67b0",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-16"
@@ -8488,7 +8692,7 @@
             "hospitalBeds": 14826,
             "importsPerDay": 0.1,
             "populationServed": 4356406,
-            "suspectedCasesToday": 499.0
+            "suspectedCasesToday": 499
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8502,8 +8706,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "4ecc16c3-2571-4547-ae05-89726e122939",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -8546,7 +8752,7 @@
             "hospitalBeds": 11306,
             "importsPerDay": 0.1,
             "populationServed": 4029053,
-            "suspectedCasesToday": 128.0
+            "suspectedCasesToday": 128
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8560,8 +8766,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "323d9e6d-d039-496d-8541-3458cdea181d",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -8604,7 +8812,7 @@
             "hospitalBeds": 4960,
             "importsPerDay": 0.1,
             "populationServed": 1639591,
-            "suspectedCasesToday": 47.0
+            "suspectedCasesToday": 47
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8618,8 +8826,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "a88338d4-d6ae-43c7-9de8-82607a871851",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-30"
@@ -8662,7 +8872,7 @@
             "hospitalBeds": 13642,
             "importsPerDay": 0.1,
             "populationServed": 4999891,
-            "suspectedCasesToday": 13.0
+            "suspectedCasesToday": 13
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8676,8 +8886,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1aa5d8e3-dd88-43c3-81de-ad1c8638020d",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-18"
@@ -8720,7 +8932,7 @@
             "hospitalBeds": 10366,
             "importsPerDay": 0.1,
             "populationServed": 3729641,
-            "suspectedCasesToday": 231.0
+            "suspectedCasesToday": 231
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8783,8 +8995,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3d2d979d-3103-43c9-b008-3bd933f791ce",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
@@ -8827,7 +9041,7 @@
             "hospitalBeds": 2652,
             "importsPerDay": 0.1,
             "populationServed": 882015,
-            "suspectedCasesToday": 45.0
+            "suspectedCasesToday": 45
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8890,8 +9104,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "e5888cba-e57d-4e14-8887-33685d1fadb7",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-13"
@@ -8934,7 +9150,7 @@
             "hospitalBeds": 15857,
             "importsPerDay": 0.1,
             "populationServed": 4905854,
-            "suspectedCasesToday": 187.0
+            "suspectedCasesToday": 187
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -8948,16 +9164,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "6af40a2b-38fc-4f5b-8639-66d08ac803c8",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-13"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "bd2740fc-fde4-4e5c-9a11-8c08c952ea04",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -9000,7 +9220,7 @@
             "hospitalBeds": 1169,
             "importsPerDay": 0.1,
             "populationServed": 364260,
-            "suspectedCasesToday": 9.0
+            "suspectedCasesToday": 9
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9049,7 +9269,7 @@
             "hospitalBeds": 1376013,
             "importsPerDay": 0.1,
             "populationServed": 1380004385,
-            "suspectedCasesToday": 25.0
+            "suspectedCasesToday": 25
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9063,8 +9283,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "e075fefd-4eea-40e4-b725-c55bc55e794c",
                     "mitigationValue": 0.4736842105263158,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -9107,7 +9329,7 @@
             "hospitalBeds": 11241,
             "importsPerDay": 0.1,
             "populationServed": 4938000,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9121,8 +9343,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "d5c89a7e-57e7-41cb-821e-63ba25779792",
                     "mitigationValue": 0.6923076923076923,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -9165,7 +9389,7 @@
             "hospitalBeds": 15871,
             "importsPerDay": 0.1,
             "populationServed": 9136000,
-            "suspectedCasesToday": 7.0
+            "suspectedCasesToday": 7
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9179,16 +9403,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "65eafeff-c2dc-48d9-b0fe-a34f8cbb0ebd",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-11"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "b9c0915d-a9b3-4c26-9545-53353e2db692",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-22"
@@ -9231,7 +9459,7 @@
             "hospitalBeds": 165384,
             "importsPerDay": 0.1,
             "populationServed": 60462000,
-            "suspectedCasesToday": 4732.0
+            "suspectedCasesToday": 4732
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9280,7 +9508,7 @@
             "hospitalBeds": 1000,
             "importsPerDay": 0.1,
             "populationServed": 1810000,
-            "suspectedCasesToday": 327.0
+            "suspectedCasesToday": 327
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9329,7 +9557,7 @@
             "hospitalBeds": 6748,
             "importsPerDay": 0.1,
             "populationServed": 1886000,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9378,7 +9606,7 @@
             "hospitalBeds": 18504,
             "importsPerDay": 0.1,
             "populationServed": 2722000,
-            "suspectedCasesToday": 27.0
+            "suspectedCasesToday": 27
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9392,16 +9620,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "02a2bad5-30f3-49db-a880-92372cb4e895",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-19"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "c678d571-456e-482d-b03d-1d0b20b9da67",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-30"
@@ -9444,7 +9676,7 @@
             "hospitalBeds": 2332,
             "importsPerDay": 0.1,
             "populationServed": 626000,
-            "suspectedCasesToday": 60.0
+            "suspectedCasesToday": 60
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9458,8 +9690,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "d033c32d-2ccb-4e8f-a177-19d349d6e912",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -9502,7 +9736,7 @@
             "hospitalBeds": 1400,
             "importsPerDay": 0.1,
             "populationServed": 442000,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9516,8 +9750,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3b44c498-26ca-4318-ab3d-191768d47657",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -9560,7 +9796,7 @@
             "hospitalBeds": 55690,
             "importsPerDay": 0.1,
             "populationServed": 17135000,
-            "suspectedCasesToday": 98.0
+            "suspectedCasesToday": 98
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9609,7 +9845,7 @@
             "hospitalBeds": 188342,
             "importsPerDay": 0.1,
             "populationServed": 37847000,
-            "suspectedCasesToday": 35.0
+            "suspectedCasesToday": 35
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9623,8 +9859,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1cbe22ce-cbe0-4848-a381-8ffeb9e9aded",
                     "mitigationValue": 0.5806451612903226,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -9667,7 +9905,7 @@
             "hospitalBeds": 33821,
             "importsPerDay": 0.1,
             "populationServed": 10197000,
-            "suspectedCasesToday": 11.0
+            "suspectedCasesToday": 11
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9716,7 +9954,7 @@
             "hospitalBeds": 90024,
             "importsPerDay": 0.1,
             "populationServed": 19238000,
-            "suspectedCasesToday": 2.0
+            "suspectedCasesToday": 2
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9814,7 +10052,7 @@
             "hospitalBeds": 26642,
             "importsPerDay": 0.1,
             "populationServed": 5460000,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9828,8 +10066,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "a05a8bcb-8278-4622-9d4e-c736e2e0f980",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -9872,7 +10112,7 @@
             "hospitalBeds": 8740,
             "importsPerDay": 0.1,
             "populationServed": 2079000,
-            "suspectedCasesToday": 5.0
+            "suspectedCasesToday": 5
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9886,16 +10126,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "0d4e27a3-44a0-4117-85ff-1d48b2adde9b",
                     "mitigationValue": 0.72,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-18"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "8c950be9-fd7b-4a53-a82d-547e26dac008",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -9938,7 +10182,7 @@
             "hospitalBeds": 110346,
             "importsPerDay": 0.1,
             "populationServed": 46755000,
-            "suspectedCasesToday": 564.0
+            "suspectedCasesToday": 564
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -9952,8 +10196,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "2f5989f4-eedf-4d88-8589-0056980c4904",
                     "mitigationValue": 0.6,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -9996,7 +10242,7 @@
             "hospitalBeds": 22754,
             "importsPerDay": 0.1,
             "populationServed": 10099000,
-            "suspectedCasesToday": 7.0
+            "suspectedCasesToday": 7
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10010,8 +10256,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "0abcf619-dc4c-4fd9-8e2f-530307740602",
                     "mitigationValue": 0.6666666666666666,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-18"
@@ -10054,7 +10302,7 @@
             "hospitalBeds": 30799,
             "importsPerDay": 0.1,
             "populationServed": 8600000,
-            "suspectedCasesToday": 25.0
+            "suspectedCasesToday": 25
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10103,7 +10351,7 @@
             "hospitalBeds": 15217,
             "importsPerDay": 0.1,
             "populationServed": 4908621,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10152,7 +10400,7 @@
             "hospitalBeds": 1615,
             "importsPerDay": 0.1,
             "populationServed": 734002,
-            "suspectedCasesToday": 24.0
+            "suspectedCasesToday": 24
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10201,7 +10449,7 @@
             "hospitalBeds": 14019,
             "importsPerDay": 0.1,
             "populationServed": 7378494,
-            "suspectedCasesToday": 31.0
+            "suspectedCasesToday": 31
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10250,7 +10498,7 @@
             "hospitalBeds": 9725,
             "importsPerDay": 0.1,
             "populationServed": 3038999,
-            "suspectedCasesToday": 12.0
+            "suspectedCasesToday": 12
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10299,7 +10547,7 @@
             "hospitalBeds": 71887,
             "importsPerDay": 0.1,
             "populationServed": 39937489,
-            "suspectedCasesToday": 42.0
+            "suspectedCasesToday": 42
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10313,8 +10561,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "dbfa1ed1-11fd-44e8-aab7-07937abe71b4",
                     "mitigationValue": 0.5806451612903226,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -10357,7 +10607,7 @@
             "hospitalBeds": 11106,
             "importsPerDay": 0.1,
             "populationServed": 5845526,
-            "suspectedCasesToday": 12.0
+            "suspectedCasesToday": 12
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10371,8 +10621,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3a2259c2-fc67-48f0-9955-d6379c068827",
                     "mitigationValue": 0.5,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -10415,7 +10667,7 @@
             "hospitalBeds": 7126,
             "importsPerDay": 0.1,
             "populationServed": 3563070,
-            "suspectedCasesToday": 14.0
+            "suspectedCasesToday": 14
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10429,8 +10681,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "7e10eb67-2e37-46ea-ae46-e2c707b8dcb6",
                     "mitigationValue": 0.42857142857142855,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -10473,7 +10727,7 @@
             "hospitalBeds": 2162,
             "importsPerDay": 0.1,
             "populationServed": 982895,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10487,8 +10741,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "86374fe6-556e-4da8-9d6b-a2a85911e59c",
                     "mitigationValue": 0.5806451612903226,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -10531,7 +10787,7 @@
             "hospitalBeds": 3171,
             "importsPerDay": 0.1,
             "populationServed": 720687,
-            "suspectedCasesToday": 8.0
+            "suspectedCasesToday": 8
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10545,8 +10801,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "8a7fd15a-ac4a-4ca2-b004-676576d295dc",
                     "mitigationValue": 0.6923076923076923,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -10589,7 +10847,7 @@
             "hospitalBeds": 57182,
             "importsPerDay": 0.1,
             "populationServed": 21992985,
-            "suspectedCasesToday": 56.0
+            "suspectedCasesToday": 56
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10603,8 +10861,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "2e63f91c-94bb-4c09-b711-4178ac0321a7",
                     "mitigationValue": 0.6923076923076923,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -10647,7 +10907,7 @@
             "hospitalBeds": 25767,
             "importsPerDay": 0.1,
             "populationServed": 10736059,
-            "suspectedCasesToday": 78.0
+            "suspectedCasesToday": 78
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10696,7 +10956,7 @@
             "hospitalBeds": 2684,
             "importsPerDay": 0.1,
             "populationServed": 1412687,
-            "suspectedCasesToday": 52.0
+            "suspectedCasesToday": 52
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10745,7 +11005,7 @@
             "hospitalBeds": 3470,
             "importsPerDay": 0.1,
             "populationServed": 1826156,
-            "suspectedCasesToday": 19.0
+            "suspectedCasesToday": 19
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10759,8 +11019,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "a42d0c0b-4611-4fed-87b4-5dcd0f67be35",
                     "mitigationValue": 0.4736842105263158,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-29"
@@ -10803,7 +11065,7 @@
             "hospitalBeds": 31649,
             "importsPerDay": 0.1,
             "populationServed": 12659682,
-            "suspectedCasesToday": 7.0
+            "suspectedCasesToday": 7
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10817,8 +11079,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "5a8da81d-2494-4ead-8616-bf1747cb7807",
                     "mitigationValue": 0.6,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -10861,7 +11125,7 @@
             "hospitalBeds": 18212,
             "importsPerDay": 0.1,
             "populationServed": 6745354,
-            "suspectedCasesToday": 40.0
+            "suspectedCasesToday": 40
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10910,7 +11174,7 @@
             "hospitalBeds": 9540,
             "importsPerDay": 0.1,
             "populationServed": 3179840,
-            "suspectedCasesToday": 2.0
+            "suspectedCasesToday": 2
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -10959,7 +11223,7 @@
             "hospitalBeds": 9604,
             "importsPerDay": 0.1,
             "populationServed": 2910357,
-            "suspectedCasesToday": 33.0
+            "suspectedCasesToday": 33
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11008,7 +11272,7 @@
             "hospitalBeds": 14399,
             "importsPerDay": 0.1,
             "populationServed": 4499692,
-            "suspectedCasesToday": 21.0
+            "suspectedCasesToday": 21
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11022,8 +11286,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "3c11477b-6c4e-4ed9-b097-2dc1320d9b0b",
                     "mitigationValue": 0.6,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -11066,7 +11332,7 @@
             "hospitalBeds": 15329,
             "importsPerDay": 0.1,
             "populationServed": 4645184,
-            "suspectedCasesToday": 107.0
+            "suspectedCasesToday": 107
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11115,7 +11381,7 @@
             "hospitalBeds": 3364,
             "importsPerDay": 0.1,
             "populationServed": 1345790,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11129,8 +11395,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "ff988f51-32d1-4ffa-81af-919ea461fca4",
                     "mitigationValue": 0.375,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -11173,7 +11441,7 @@
             "hospitalBeds": 11558,
             "importsPerDay": 0.1,
             "populationServed": 6083116,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11187,8 +11455,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1ce48cd7-2ece-45ff-9c13-f763c30d4c6a",
                     "mitigationValue": 0.46153846153846156,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-26"
@@ -11231,7 +11501,7 @@
             "hospitalBeds": 16046,
             "importsPerDay": 0.1,
             "populationServed": 6976597,
-            "suspectedCasesToday": 2.0
+            "suspectedCasesToday": 2
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11245,8 +11515,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "df359c13-ac88-41f9-8ae5-ad57563ea68b",
                     "mitigationValue": 0.4186046511627907,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -11289,7 +11561,7 @@
             "hospitalBeds": 25113,
             "importsPerDay": 0.1,
             "populationServed": 10045029,
-            "suspectedCasesToday": 11.0
+            "suspectedCasesToday": 11
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11338,7 +11610,7 @@
             "hospitalBeds": 14252,
             "importsPerDay": 0.1,
             "populationServed": 5700671,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11352,8 +11624,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "6bcd074d-3c83-46e0-a5b3-58783a94fd45",
                     "mitigationValue": 0.5625,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -11396,7 +11670,7 @@
             "hospitalBeds": 11957,
             "importsPerDay": 0.1,
             "populationServed": 2989260,
-            "suspectedCasesToday": 14.0
+            "suspectedCasesToday": 14
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11445,7 +11719,7 @@
             "hospitalBeds": 19125,
             "importsPerDay": 0.1,
             "populationServed": 6169270,
-            "suspectedCasesToday": 74.0
+            "suspectedCasesToday": 74
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11494,7 +11768,7 @@
             "hospitalBeds": 3586,
             "importsPerDay": 0.1,
             "populationServed": 1086759,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11543,7 +11817,7 @@
             "hospitalBeds": 7029,
             "importsPerDay": 0.1,
             "populationServed": 1952570,
-            "suspectedCasesToday": 4.0
+            "suspectedCasesToday": 4
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11557,8 +11831,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "40cd7a28-5d12-464c-b99b-2904b9a159ce",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-30"
@@ -11601,7 +11877,7 @@
             "hospitalBeds": 6593,
             "importsPerDay": 0.1,
             "populationServed": 3139658,
-            "suspectedCasesToday": 15.0
+            "suspectedCasesToday": 15
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11615,8 +11891,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "1bf9bc49-863d-4547-b3fd-6637ca5d002d",
                     "mitigationValue": 0.6428571428571429,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -11659,7 +11937,7 @@
             "hospitalBeds": 2880,
             "importsPerDay": 0.1,
             "populationServed": 1371246,
-            "suspectedCasesToday": 6.0
+            "suspectedCasesToday": 6
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11673,8 +11951,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "714826c9-6e56-4538-b255-377ecb218755",
                     "mitigationValue": 0.5142857142857143,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-23"
@@ -11717,7 +11997,7 @@
             "hospitalBeds": 21448,
             "importsPerDay": 0.1,
             "populationServed": 8936574,
-            "suspectedCasesToday": 24.0
+            "suspectedCasesToday": 24
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11766,7 +12046,7 @@
             "hospitalBeds": 3774,
             "importsPerDay": 0.1,
             "populationServed": 2096640,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11780,16 +12060,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "b40558ba-a94e-4baa-a6b7-ae49ce15a958",
                     "mitigationValue": 0.375,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "7f69dfda-b7c4-45e0-9408-b8c1a06bce5e",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -11832,7 +12116,7 @@
             "hospitalBeds": 52489,
             "importsPerDay": 0.1,
             "populationServed": 19440469,
-            "suspectedCasesToday": 2.0
+            "suspectedCasesToday": 2
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11881,7 +12165,7 @@
             "hospitalBeds": 22285,
             "importsPerDay": 0.1,
             "populationServed": 10611862,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11930,7 +12214,7 @@
             "hospitalBeds": 3275,
             "importsPerDay": 0.1,
             "populationServed": 761723,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -11979,7 +12263,7 @@
             "hospitalBeds": 32894,
             "importsPerDay": 0.1,
             "populationServed": 11747694,
-            "suspectedCasesToday": 12.0
+            "suspectedCasesToday": 12
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12028,7 +12312,7 @@
             "hospitalBeds": 11073,
             "importsPerDay": 0.1,
             "populationServed": 3954821,
-            "suspectedCasesToday": 17.0
+            "suspectedCasesToday": 17
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12077,7 +12361,7 @@
             "hospitalBeds": 6882,
             "importsPerDay": 0.1,
             "populationServed": 4301089,
-            "suspectedCasesToday": 80.0
+            "suspectedCasesToday": 80
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12091,8 +12375,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "6fd79f66-6e9e-4fea-9e36-74ea2ec397e7",
                     "mitigationValue": 0.5142857142857143,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-30"
@@ -12135,7 +12421,7 @@
             "hospitalBeds": 37181,
             "importsPerDay": 0.1,
             "populationServed": 12820878,
-            "suspectedCasesToday": 7.0
+            "suspectedCasesToday": 7
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12184,7 +12470,7 @@
             "hospitalBeds": 6064,
             "importsPerDay": 0.1,
             "populationServed": 3032160,
-            "suspectedCasesToday": 9.0
+            "suspectedCasesToday": 9
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12198,8 +12484,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "49ae9583-5be9-4be0-904e-6c15223f4714",
                     "mitigationValue": 0.3829787234042553,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-30"
@@ -12242,7 +12530,7 @@
             "hospitalBeds": 2218,
             "importsPerDay": 0.1,
             "populationServed": 1056161,
-            "suspectedCasesToday": 0.0
+            "suspectedCasesToday": 0
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12291,7 +12579,7 @@
             "hospitalBeds": 12504,
             "importsPerDay": 0.1,
             "populationServed": 5210095,
-            "suspectedCasesToday": 28.0
+            "suspectedCasesToday": 28
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12340,7 +12628,7 @@
             "hospitalBeds": 4335,
             "importsPerDay": 0.1,
             "populationServed": 903027,
-            "suspectedCasesToday": 130.0
+            "suspectedCasesToday": 130
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12354,8 +12642,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "9c23e6ed-8f0e-4a3a-87b6-1425c036f802",
                     "mitigationValue": 0.42857142857142855,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-31"
@@ -12398,7 +12688,7 @@
             "hospitalBeds": 20003,
             "importsPerDay": 0.1,
             "populationServed": 6897576,
-            "suspectedCasesToday": 1.0
+            "suspectedCasesToday": 1
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12447,7 +12737,7 @@
             "hospitalBeds": 67786,
             "importsPerDay": 0.1,
             "populationServed": 29472295,
-            "suspectedCasesToday": 18.0
+            "suspectedCasesToday": 18
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12461,8 +12751,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "e4eaf17f-c12a-4965-8a55-a89f3e2d3095",
                     "mitigationValue": 0.5625,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-04-01"
@@ -12505,7 +12797,7 @@
             "hospitalBeds": 5908,
             "importsPerDay": 0.1,
             "populationServed": 3282115,
-            "suspectedCasesToday": 2.0
+            "suspectedCasesToday": 2
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12519,8 +12811,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "b15fcd72-a6e9-42b0-b7b7-3bec3332354a",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-28"
@@ -12563,7 +12857,7 @@
             "hospitalBeds": 1319,
             "importsPerDay": 0.1,
             "populationServed": 628061,
-            "suspectedCasesToday": 187.0
+            "suspectedCasesToday": 187
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12612,7 +12906,7 @@
             "hospitalBeds": 18115,
             "importsPerDay": 0.1,
             "populationServed": 8626207,
-            "suspectedCasesToday": 25.0
+            "suspectedCasesToday": 25
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12626,8 +12920,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "412d7a73-27df-4098-927e-69d37f22c8b0",
                     "mitigationValue": 0.8,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -12670,7 +12966,7 @@
             "hospitalBeds": 13255,
             "importsPerDay": 0.1,
             "populationServed": 7797095,
-            "suspectedCasesToday": 817.0
+            "suspectedCasesToday": 817
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12719,7 +13015,7 @@
             "hospitalBeds": 6757,
             "importsPerDay": 0.1,
             "populationServed": 1778070,
-            "suspectedCasesToday": 13.0
+            "suspectedCasesToday": 13
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12768,7 +13064,7 @@
             "hospitalBeds": 12289,
             "importsPerDay": 0.1,
             "populationServed": 5851754,
-            "suspectedCasesToday": 56.0
+            "suspectedCasesToday": 56
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12817,7 +13113,7 @@
             "hospitalBeds": 1985,
             "importsPerDay": 0.1,
             "populationServed": 567025,
-            "suspectedCasesToday": 3.0
+            "suspectedCasesToday": 3
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12831,8 +13127,10 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "e7984531-a3a2-4ac6-bd0d-e3c8adc95577",
                     "mitigationValue": 0.6206896551724138,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-27"
@@ -12875,7 +13173,7 @@
             "hospitalBeds": 297000,
             "importsPerDay": 0.1,
             "populationServed": 66000000,
-            "suspectedCasesToday": 46.0
+            "suspectedCasesToday": 46
         },
         "simulation": {
             "numberStochasticRuns": 0,
@@ -12889,16 +13187,20 @@
         "containment": {
             "mitigationIntervals": [
                 {
+                    "color": "#bf5b17",
+                    "id": "b02a01ab-1308-49c3-b885-e4df9280396e",
                     "mitigationValue": 0.5625,
-                    "name": "levelOne",
+                    "name": "Intervention #1",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-20"
                     }
                 },
                 {
+                    "color": "#666666",
+                    "id": "eb617a0f-a8c0-4659-acfe-eb38d713a326",
                     "mitigationValue": 0.4,
-                    "name": "levelTwo",
+                    "name": "Intervention #2",
                     "timeRange": {
                         "tMax": "2020-09-01",
                         "tMin": "2020-03-25"
@@ -12941,7 +13243,7 @@
             "hospitalBeds": 1485000,
             "importsPerDay": 0.1,
             "populationServed": 330000000,
-            "suspectedCasesToday": 9.0
+            "suspectedCasesToday": 9
         },
         "simulation": {
             "numberStochasticRuns": 0,

@@ -17,8 +17,6 @@ import { getScenarioData, getAgeDistribution } from './data'
 
 import { CUSTOM_SCENARIO_NAME, CUSTOMIZED_AGE_DISTRIBUTION, defaultScenarioState } from './state'
 
-import { updateTimeSeries } from '../../../algorithms/utils/TimeSeries'
-
 function maybeAdd<T>(where: T[], what: T): T[] {
   return _.uniq([...where, what])
 }
@@ -46,17 +44,17 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
       draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
       draft.current = name
       if (name !== CUSTOM_SCENARIO_NAME) {
-        draft.data = getScenarioData(name)
-        draft.data.containment = {
-          reduction: updateTimeSeries(
-            draft.data.simulation.simulationTimeRange,
-            draft.data.containment.reduction,
-            draft.data.containment.numberPoints,
-          ),
-          numberPoints: draft.data.containment.numberPoints,
-        }
+        draft.data = _.cloneDeep(getScenarioData(name))
         draft.ageDistribution = getAgeDistribution(draft.data.population.country)
       }
+    }),
+  )
+
+  .withHandling(
+    immerCase(setScenarioData, (draft, { data }) => {
+      draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
+      draft.current = CUSTOM_SCENARIO_NAME
+      draft.data = _.cloneDeep(data)
     }),
   )
 
@@ -64,10 +62,10 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
     immerCase(setPopulationData, (draft, { data }) => {
       draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
       draft.current = CUSTOM_SCENARIO_NAME
-      draft.data.population = data
+      draft.data.population = _.cloneDeep(data)
       if (draft.data.population.country !== CUSTOMIZED_AGE_DISTRIBUTION) {
         draft.ageDistribution = getAgeDistribution(draft.data.population.country)
-      }
+      }      
     }),
   )
 
@@ -75,7 +73,7 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
     immerCase(setEpidemiologicalData, (draft, { data }) => {
       draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
       draft.current = CUSTOM_SCENARIO_NAME
-      draft.data.epidemiological = data
+      draft.data.epidemiological = _.cloneDeep(data)
     }),
   )
 
@@ -88,10 +86,7 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
 
       draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
       draft.current = CUSTOM_SCENARIO_NAME
-      draft.data.containment = {
-        reduction: updateTimeSeries(draft.data.simulation.simulationTimeRange, data.reduction, validNumberPoints),
-        numberPoints: validNumberPoints,
-      }
+      draft.data.containment = _.cloneDeep(data)
     }),
   )
 
@@ -99,15 +94,7 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
     immerCase(setSimulationData, (draft, { data }) => {
       draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
       draft.current = CUSTOM_SCENARIO_NAME
-      draft.data.simulation = data
-      draft.data.containment = {
-        reduction: updateTimeSeries(
-          data.simulationTimeRange,
-          draft.data.containment.reduction,
-          draft.data.containment.numberPoints,
-        ),
-        numberPoints: draft.data.containment.numberPoints,
-      }
+      draft.data.simulation = _.cloneDeep(data)
     }),
   )
 
