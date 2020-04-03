@@ -15,8 +15,6 @@ import run from '../../algorithms/run'
 
 import LocalStorage, { LOCAL_STORAGE_KEYS } from '../../helpers/localStorage'
 
-import { CountryAgeDistribution } from '../../assets/data/CountryAgeDistribution.types'
-import countryAgeDistributionData from '../../assets/data/country_age_distribution.json'
 import severityData from '../../assets/data/severityData.json'
 
 import countryCaseCountData from '../../assets/data/case_counts.json'
@@ -55,34 +53,24 @@ async function runSimulation(
     ...params.simulation,
   }
 
-  if (!isCountry(params.population.country)) {
-    console.error(`The given country is invalid: ${params.population.country}`)
-    return
-  }
-
-  if (params.population.cases !== "none" && !isRegion(params.population.cases)) {
+  if (params.population.cases !== 'none' && !isRegion(params.population.cases)) {
     console.error(`The given confirmed cases region is invalid: ${params.population.cases}`)
     return
   }
 
-  const ageDistribution = (countryAgeDistributionData as CountryAgeDistribution)[params.population.country]
   const caseCounts: EmpiricalData = countryCaseCountData[params.population.cases] || []
 
   const containmentData = params.containment.reduction
 
   serializeScenarioToURL(scenarioState, params)
 
-  const newResult = await run(paramsFlat, severity, ageDistribution, containmentData)
+  const newResult = await run(paramsFlat, severity, scenarioState.ageDistribution, containmentData)
   setResult(newResult)
   caseCounts.sort((a, b) => (a.time > b.time ? 1 : -1))
   setEmpiricalCases(caseCounts)
 }
 
 const severityDefaults: SeverityTableRow[] = updateSeverityTable(severityData)
-
-const isCountry = (country: string): country is keyof CountryAgeDistribution => {
-  return Object.prototype.hasOwnProperty.call(countryAgeDistributionData, country)
-}
 
 const isRegion = (region: string): region is keyof typeof countryCaseCountData => {
   return Object.prototype.hasOwnProperty.call(countryCaseCountData, region)

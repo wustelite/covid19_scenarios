@@ -5,17 +5,17 @@ import { reducerWithInitialState } from 'typescript-fsa-reducers'
 import immerCase from '../../../state/util/fsaImmerReducer'
 
 import {
-  setScenarioData,
   setPopulationData,
   setEpidemiologicalData,
   setContainmentData,
   setSimulationData,
   setScenario,
+  setAgeDistributionData,
 } from './actions'
 
-import { getScenarioData } from './data'
+import { getScenarioData, getAgeDistribution } from './data'
 
-import { CUSTOM_SCENARIO_NAME, defaultScenarioState } from './state'
+import { CUSTOM_SCENARIO_NAME, CUSTOMIZED_AGE_DISTRIBUTION, defaultScenarioState } from './state'
 
 import { updateTimeSeries } from '../../../algorithms/utils/TimeSeries'
 
@@ -55,19 +55,7 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
           ),
           numberPoints: draft.data.containment.numberPoints,
         }
-      }
-    }),
-  )
-
-  .withHandling(
-    immerCase(setScenarioData, (draft, { data }) => {
-      draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
-      draft.current = CUSTOM_SCENARIO_NAME
-      draft.data = {
-        population: data.population,
-        epidemiological: data.epidemiological,
-        containment: data.containment,
-        simulation: data.simulation,
+        draft.ageDistribution = getAgeDistribution(draft.data.population.country)
       }
     }),
   )
@@ -77,6 +65,9 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
       draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
       draft.current = CUSTOM_SCENARIO_NAME
       draft.data.population = data
+      if (draft.data.population.country !== CUSTOMIZED_AGE_DISTRIBUTION) {
+        draft.ageDistribution = getAgeDistribution(draft.data.population.country)
+      }
     }),
   )
 
@@ -109,7 +100,6 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
       draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
       draft.current = CUSTOM_SCENARIO_NAME
       draft.data.simulation = data
-      console.log('TIME', data.simulationTimeRange)
       draft.data.containment = {
         reduction: updateTimeSeries(
           data.simulationTimeRange,
@@ -117,6 +107,18 @@ export const scenarioReducer = reducerWithInitialState(defaultScenarioState)
           draft.data.containment.numberPoints,
         ),
         numberPoints: draft.data.containment.numberPoints,
+      }
+    }),
+  )
+
+  .withHandling(
+    immerCase(setAgeDistributionData, (draft, { data }) => {
+      draft.scenarios = maybeAdd(draft.scenarios, CUSTOM_SCENARIO_NAME)
+      draft.current = CUSTOM_SCENARIO_NAME
+      draft.ageDistribution = data
+      draft.data.population = {
+        ...draft.data.population,
+        country: CUSTOMIZED_AGE_DISTRIBUTION,
       }
     }),
   )
