@@ -63,7 +63,10 @@ export function deserializeScenarioFromURL(initState: State): State {
           },
           simulation: obj.simulation,
         },
-        ageDistribution: obj.ageDistribution,
+        ageDistribution: {
+          ...initState.ageDistribution,
+          ...obj.ageDistribution,
+        },
       }
     } catch (error) {
       console.error('Error while parsing URL :', error.message)
